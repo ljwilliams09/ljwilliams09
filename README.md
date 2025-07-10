@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Luca Williams
 
-<!--
-**ljwilliams09/ljwilliams09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science** and **Political Science** student at **Colgate University** passionate about building meaningful projects.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔬 **Summer Researcher**: I'm currently working on a large-scale data project scraping over **22 million public comments** from [regulations.gov](https://www.regulations.gov/). We're building NLP pipelines using **OpenAI models** to analyze public sentiment and determine political affiliations. This project is part of my ongoing research with a political science professor, which I plan to continue into the academic year.
+- 🛠 **Learning Full Stack Development**: In my spare time, I’m building a **meal prep web app** using **Node.js**, with plans to scale it and integrate more features for users with different goals—from college students to new chefs.
+- 💡 **Interested in**: software development and civic technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Interests
+- 🍽️ Full stack apps with a practical use case  
+- ⌨️ Refurbishing a Apple II GS M0487 Keyboard to make it bluetooth and add other features based on [this repo](https://github.com/mattchesters/zmk-apple-desktop-bus-keyboard).
+
+## 📬 Get in Touch
+- 📧 Email: [ljwilliams@colgate.edu](mailto:ljwilliams@colgate.edu)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luca-j-williams/)
