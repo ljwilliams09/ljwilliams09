@@ -8,7 +8,7 @@ I'm a **Computer Science** and **Political Science** student at **Colgate Univer
 - 💡 **Interested in**: software development and civic technology. 
 
 ## 🚀 Projects & Interests
-- 🍽️ Full stack apps with a practical use case  
+- 🍽️ Full stack software development
 - ⌨️ Refurbishing a Apple II GS M0487 Keyboard to make it bluetooth and add other features based on [this repo](https://github.com/mattchesters/zmk-apple-desktop-bus-keyboard).
 
 ## 📬 Get in Touch
