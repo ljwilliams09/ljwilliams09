@@ -5,7 +5,6 @@ I'm a **Computer Science** and **Political Science** student at **Colgate Univer
 ## 🧠 About Me
 - 🔬 **Summer Researcher**: I'm currently working on a large-scale data project scraping over **22 million public comments** from [regulations.gov](https://www.regulations.gov/). We're building NLP pipelines using **OpenAI models** to analyze sentiment and affiliations of commenters. This project is part of my ongoing research with a political science professor, which I plan to continue into the academic year to potentially co-author a paper.
 - 📱 **Learning Mobile Development**: In my spare time, I’m building a mobile app using **Flutter** to revitalize a program to increase student engagement at athletics events. 
-- 💡 **Interested in**: software development and technology consulting.
 
 ## 🚀 Projects & Interests
 - 💻 Software Development
